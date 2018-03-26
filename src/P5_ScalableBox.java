@@ -2,8 +2,8 @@
 
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Matthew Shelby
+	Date: 3/25/2018
 */
 
 public class P5_ScalableBox {
